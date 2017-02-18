@@ -11,16 +11,16 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Foundation5/github pages/Jykill starter
-brand: My Project
-description: This is the description of my project
+name: Rita G Furlong
+brand: Rita G Furlong
+description: Rita G Furlong
 keyword: 
-url: http://daigofuji.github.io/jekyll-foundation-6-starter/
-email: daigo@daigofujiwara.com
-twitter: DaigoFuji
-github: DaigoFuji
-author: Daigo Fujiwara
-year: 2016
+url: https://ritagfurlong.github.io/site/
+email: ritagfurlong1@gmail.com
+twitter: 
+github: 
+author: Rita G Furlong
+year: 
 markdown: kramdown
 exclude:
 - node_modules
