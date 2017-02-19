@@ -14,13 +14,13 @@ collections:
 name: Rita G Furlong
 brand: Rita G Furlong
 description: Rita G Furlong
-keyword: 
+keyword:
 url: https://ritagfurlong.github.io/site/
 email: ritagfurlong1@gmail.com
-twitter: 
-github: 
+twitter:
+github:
 author: Rita G Furlong
-year: 
+year:
 markdown: kramdown
 exclude:
 - node_modules
